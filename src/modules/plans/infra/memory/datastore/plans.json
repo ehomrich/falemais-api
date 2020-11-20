@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "falemais-30",
+    "name": "FaleMais 30",
+    "quota": 30,
+    "overageFee": 0.1
+  },
+  {
+    "slug": "falemais-60",
+    "name": "FaleMais 60",
+    "quota": 60,
+    "overageFee": 0.1
+  },
+  {
+    "slug": "falemais-120",
+    "name": "FaleMais 120",
+    "quota": 120,
+    "overageFee": 0.1
+  }
+]

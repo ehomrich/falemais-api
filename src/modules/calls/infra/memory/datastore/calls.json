@@ -1,0 +1,32 @@
+[
+  {
+    "origin": "011",
+    "destination": "016",
+    "tariffPerMinute": 1.9
+  },
+  {
+    "origin": "016",
+    "destination": "011",
+    "tariffPerMinute": 2.9
+  },
+  {
+    "origin": "011",
+    "destination": "017",
+    "tariffPerMinute": 1.7
+  },
+  {
+    "origin": "017",
+    "destination": "011",
+    "tariffPerMinute": 2.7
+  },
+  {
+    "origin": "011",
+    "destination": "018",
+    "tariffPerMinute": 0.9
+  },
+  {
+    "origin": "018",
+    "destination": "011",
+    "tariffPerMinute": 1.9
+  }
+]
